@@ -1,0 +1,19 @@
+{
+  "name": "heart-animation",
+  "version": "1.0.0",
+  "description": "一个浪漫的爱心跳动动画页面",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["heart", "animation", "love", "particles"],
+  "author": "Frontend Developer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.20.5"
+  }
+} 
